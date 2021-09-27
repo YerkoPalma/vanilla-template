@@ -1,0 +1,7 @@
+/node_modules/
+/public/build/
+/public/index.html
+/public/404.html
+
+.DS_Store
+package-lock.json
